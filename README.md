@@ -1,6 +1,8 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm a Back-end & Dev-ops engineer.&fontSize=90" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Backend%20%26%20Teaching&fontSize=90" width="100%"/>  
+  ## I'm a Python Back-end Developer and English teacher.
+</div>
   
 </div>
 
