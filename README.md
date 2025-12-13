@@ -1,13 +1,9 @@
-<!-- Header -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Backend%20%26%20Teaching&fontSize=90" width="100%"/>  
-  ## I'm a Python Back-end Developer and English teacher.
-</div>
-  
-</div>
-
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Open+Source+Enthusiast;Always+Learning&center=false&width=500&height=50" alt="Typing SVG" />
+</a>
 <!-- Introduction -->
-### :man_technologist: About Me
+### 🧐 What I do
+I specialize in building scalable web applications and Back-end solutions.
 - 🔭 I’m currently working on **Ai Automation**
 - 🌱 I’m currently learning **Fast API & Langchain**
 - 👯 I’m looking to collaborate on **On your interesting back-end solutions**
