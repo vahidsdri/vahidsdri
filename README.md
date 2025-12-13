@@ -5,9 +5,7 @@
   <!-- Introduction -->
   
 <div/>
-  
   <br/>
-  
 ### 🧐 What I do
 I specialize in building scalable web applications and Back-end solutions.
 - 🔭 I’m currently working on **Ai Automation**
