@@ -8,7 +8,7 @@
   <br/>
   
 ### 🧐 What I do
-I specialize in building scalable web applications and Back-end solutions.
+I specialize in building web applications and Back-end solutions.
 - 🔭 I’m currently working on **Ai Automation**
 - 🌱 I’m currently learning **Fast API & Langchain**
 - 👯 I’m looking to collaborate on **On your interesting back-end solutions**
