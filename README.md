@@ -11,6 +11,6 @@
 I specialize in building web applications and Back-end solutions.
 - 🔭 I’m currently working on **Ai Automation**
 - 🌱 I’m currently learning **Fast API & Langchain**
-- 👯 I’m looking to collaborate on **On your interesting back-end solutions**
+- 🤝I’m looking to collaborate on **On your interesting back-end solutions**
 - 💬 Ask me about **Python, Django, flask**
-- 📫 Reach me at **vsadriuc@gmail.com**
+- 📫 Reach me at **vahidsadriv@gmail.com**
